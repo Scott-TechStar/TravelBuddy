@@ -1,5 +1,5 @@
 # TravelBuddy
-![TravelBuddy](https://github.com/Scott-TechStar/Webstack-Portfolio-Project-Pitch/blob/main/welcome.png)
+![TravelBuddy](https://github.com/Scott-TechStar/Webstack---Portfolio-Project/blob/main/welcome.png)
 
 `Group project` `Web Portfolio project`
 
